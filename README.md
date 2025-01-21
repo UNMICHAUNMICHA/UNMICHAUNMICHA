@@ -38,6 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/images/kali-logo.svg" alt="nginx" width="40" height="40"/> </a> 
+
+
+  
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unmichaunmicha&show_icons=true&locale=en&layout=compact" alt="unmichaunmicha" /></p>
 
